@@ -1,5 +1,5 @@
 {
-    "base_folder": "C:/Users/RiccardoPinosio/Repositories/personal/forecasting_case_study/data",
+    "base_folder": "/Users/phil/Documents/GitHub/DDB_forecasting_case_study/data",
     "loading_params": {
         "reload_clean_data": true
     },
